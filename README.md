@@ -25,9 +25,10 @@ Para rodar o projeto localmente, siga estes passos:
    ```bash
    git clone https://github.com/usuario/tela-login.git
   
-cd tela-login
-npm install
-npm start
+
+1. cd tela-login
+2. npm install
+3. npm start
 
 
 <img src="https://github.com/user-attachments/assets/da543e28-4d5e-4158-9924-e8bd347971df" alt="Descrição da Imagem" width="500"/>
