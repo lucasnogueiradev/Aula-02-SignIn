@@ -28,4 +28,6 @@ Para rodar o projeto localmente, siga estes passos:
 cd tela-login
 npm install
 npm start
+
+
 <img src="https://github.com/user-attachments/assets/da543e28-4d5e-4158-9924-e8bd347971df" alt="Descrição da Imagem" width="500"/>
